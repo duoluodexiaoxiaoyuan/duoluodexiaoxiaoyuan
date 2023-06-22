@@ -5,7 +5,7 @@
 - 🌍  I'm based in China
 - 🖥️ See my portfolio at [blog](https://medium.com/@gwang4564)
 - ✉️ You can contact me at [2430486030@qq.com](mailto:2430486030@qq.com)
-- 🚀 I'm currently working on hangzhou
+- 🚀 I'm currently working on HangZhou
 - 🧠 I'm learning React、TypeScript
 - ⚡ Study
 
