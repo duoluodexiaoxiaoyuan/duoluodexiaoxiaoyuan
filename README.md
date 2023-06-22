@@ -19,3 +19,7 @@ I like to make friends with like-minded people， I know there are others out th
 
 ### Expected
 I hope I can take my time and do things slowly without being blinded by desires.
+<div>
+  <img width="340px"  height="156" src="https://github-readme-stats.vercel.app/api/top-langs?username=duoluodexiaoxiaoyuan&theme=dark&show_icons=true&&bg_color=20,313131,0d1117&icon_color=6353c7&hide=contribs&hide_border=truelocale=en&layout=compact" />
+  <img height="156" src="https://github-stats.liuli.lol/api?username=duoluodexiaoxiaoyuan&theme=dark&show_icons=true&include_all_commits=true&bg_color=20,313131,0d1117&icon_color=6353c7&hide=contribs&hide_border=true" />
+</ div> 
