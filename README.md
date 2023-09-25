@@ -4,7 +4,7 @@
 
 - 🌍  I'm based in China
 - 🖥️ See my portfolio at [blog](https://medium.com/@gwang4564)
-- ✉️ You can contact me at [2430486030@qq.com](mailto:2430486030@qq.com) or gmail [gwang4564@gmail.com](gwang4564@gmail.com)
+- ✉️ You can contact me at  gmail [gwang4564@gmail.com](gwang4564@gmail.com)
 - 🚀 I'm currently working on HangZhou
 - 🧠 I'm learning React、TypeScript
 - ⚡ Study
